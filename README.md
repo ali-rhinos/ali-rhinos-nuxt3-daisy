@@ -6,6 +6,9 @@ Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 * [Pinia documentation](https://pinia.vuejs.org/ssr/nuxt.html) 
 * [Tailwindcss documentation](https://tailwindcss.com/) 
 * [Vuejs documentation](https://vuejs.org/) 
+* [Vueuse documentation](https://vueuse.org/nuxt/readme.html) 
+
+
 
 ## Setup
 
