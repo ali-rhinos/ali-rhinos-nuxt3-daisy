@@ -7,6 +7,8 @@ Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 * [Tailwindcss documentation](https://tailwindcss.com/) 
 * [Vuejs documentation](https://vuejs.org/) 
 * [Vueuse documentation](https://vueuse.org/nuxt/readme.html) 
+* [Swiperjs documentation (Need to import swiperjs component manually, auto import won't work)](https://swiperjs.com/) 
+* [I18n.nuxtjs documentation (Currently i beta)](https://v8.i18n.nuxtjs.org/) 
 
 
 
