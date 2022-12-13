@@ -10,7 +10,7 @@ module.exports = {
     node: true,
   },
   plugins: ['vue', '@typescript-eslint'],
-  extends: ['@antfu'],
+  extends: ['@antfu', 'plugin:@intlify/vue-i18n/recommended'],
   rules: {
     '@typescript-eslint/camelcase': 'off',
     '@typescript-eslint/class-name-casing': 'off',
@@ -21,5 +21,6 @@ module.exports = {
     'vue/first-attribute-linebreak': 'off',
     'vue/multi-word-component-names': 'off',
     'vue/singleline-html-element-content-newline': 'off',
+    '@intlify/vue-i18n/no-dynamic-keys': 'off',
   },
 }
