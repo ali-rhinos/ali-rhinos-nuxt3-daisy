@@ -7,6 +7,10 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxtjs/i18n',
   ],
+  css: ['swiper/css'],
+  build: {
+    transpile: ['swiper'],
+  },
   i18n: {
     strategy: 'prefix',
     lazy: true,

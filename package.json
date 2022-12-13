@@ -18,7 +18,8 @@
     "check:all": "yarn format && yarn lint && yarn coverage"
   },
   "dependencies": {
-    "pinia": "^2.0.24"
+    "pinia": "^2.0.24",
+    "swiper": "^8.4.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.31.0",
