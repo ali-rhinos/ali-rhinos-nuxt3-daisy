@@ -9,6 +9,7 @@ Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 * [Vueuse documentation](https://vueuse.org/nuxt/readme.html) 
 * [Swiperjs documentation (Need to import swiperjs component manually, auto import won't work)](https://swiperjs.com/) 
 * [I18n.nuxtjs documentation (Currently in beta)](https://v8.i18n.nuxtjs.org/) 
+* [Storybook documentation](https://storybook.js.org/docs/vue) 
 
 
 
